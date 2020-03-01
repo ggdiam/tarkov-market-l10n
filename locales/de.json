@@ -4,7 +4,7 @@
     "keywords": "Tarkov, Escape From Tarkov, EFT, Markt, flea market, Flohmarkt, Preis, Preise, Überwachung, Handeln, trade, api, Diagramme, Tabellen, Preisverlauf, Charts",
     "item": {
       "title": "Tarkov - {0}",
-      "description": "Online Abfrage, Diagramme, Preisverlauf für {0} - Escape From Tarkov Flohmarkt (Flea Market)"
+      "description": "Online Abfrage, Diagramme, Preisverlauf für {0} - Escape From Tarkov-Flohmarkt"
     }
   },
   "price": "Preis",
@@ -32,13 +32,13 @@
     "title": "Aktuelle Preise, Online-Abfrage, Diagramme, Preisverlauf",
     "desc": "Tarkov Online-Flohmarkt-Preisabfrage",
     "table": {
-      "img": "Bild",
+      "img": "Icon",
       "title": "Titel",
       "lastPrice": "Letzter Preis",
       "avgDayPrice": "Durchschnittlicher Preis (24h)",
       "perSlotPrice": "Preis pro Slot (Artikelgröße {0})",
-      "change24h": "Veränderung letzte 24 Stunden",
-      "change7d": "Veränderung letzte 7 Tage"
+      "change24h": "Veränderung in den letzten 24 Stunden",
+      "change7d": "Veränderung in den letzten 7 Tage"
     },
     "search_ph": "Suche"
   },
