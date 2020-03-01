@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "description": "Price online monitoring, charts, price history on Escape From Tarkov flea market items",
+    "keywords": "Tarkov, Escape From Tarkov, EFT, market, flea market, price, prices, monitoring, trade, history, charts, api",
+    "item": {
+      "title": "Tarkov - {0}",
+      "description": "Online price monitoring, charts, price history for {0} on Escape From Tarkov flea market"
+    }
+  },
+  "price": "price",
+  "avgDayPrice": "Avg. price (24h)",
+  "avgWeekPrice": "Avg. price (7d)",
+  "perSlot": "per slot",
+  "PerSlot": "Per slot",
+  "tag": {
+    "h1": "Tarkov - flea market - {0} - prices"
+  },
+  "donate": {
+    "support": "Donate / support",
+    "on_patreon": "on Patreon"
+  },
+  "theme": {
+    "theme": "Theme",
+    "white": "White",
+    "dark": "Dark"
+  },
+  "login": {
+    "with_patreon": "Log in with Patreon"
+  },
+  "home": {
+    "h1": "Tarkov - flea market - prices",
+    "title": "Actual prices, online monitoring, charts, price history",
+    "desc": "Tarkov online flea market price monitoring",
+    "table": {
+      "img": "Image",
+      "title": "Title",
+      "lastPrice": "Last Price",
+      "avgDayPrice": "Avg price (24h)",
+      "perSlotPrice": "Price per Slot (item size {0})",
+      "change24h": "24h Change",
+      "change7d": "7d Change"
+    },
+    "search_ph": "Search"
+  },
+  "header": {
+    "thanks": "Thanks / Donate",
+    "lang": "Language",
+    "login": "Login",
+    "updated": "Data updated",
+    "tools": "Community tools",
+    "hideout": "Hideout profit calculator",
+    "ammo": "Ammo Analyzer"
+  },
+  "item": {
+    "title": "Price history chart for the last 7 days",
+    "back": "Back",
+    "addToFav": "Add to favorites",
+    "rmFromFav": "Remove from favorites",
+    "price": "Price",
+    "avg-price": "Average price",
+    "avg24h": "24 hours",
+    "avg7d": "7 days",
+    "last-price": "Last lowest price",
+    "price-per-slot": "Price per slot",
+    "slots": "Slots",
+    "slot": "Slot",
+    "price-diff": "Price difference",
+    "change24h": "24 hours",
+    "change7d": "7 days",
+    "wiki-link": "Wiki",
+    "updated": "Updated"
+  },
+  "trader": {
+    "thanks": "Thanks to",
+    "price": "Highest sell price by trader",
+    "Prapor": "Prapor",
+    "Therapist": "Therapist",
+    "Fence": "Fence",
+    "Skier": "Skier",
+    "Peacekeeper": "Peacekeeper",
+    "Mechanic": "Mechanic",
+    "Ragman": "Ragman",
+    "Jaeger": "Jaeger"
+  },
+  "zoom": {
+    "title": {
+      "7d": "Price history chart for the last 7 days",
+      "1m": "Price history chart for the last month",
+      "6m": "Price history chart for the last 6 months",
+      "1y": "Price history chart for the last year"
+    },
+    "7d": "7d",
+    "1m": "1м",
+    "6m": "6m",
+    "1y": "1y"
+  },
+  "tags": {
+    "main": "Main"
+  },
+  "error": "Error",
+  "share": {
+    "text": "Share you user session to another device",
+    "share-url": "Share url (click to copy) and open in new browser",
+    "accept": {
+      "title": "Share accept",
+      "to-main": "To main"
+    },
+    "error": {
+      "invalid": "share link not valid",
+      "already-accepted": "share link already accepted"
+    }
+  },
+  "user": {
+    "title": "User profile"
+  },
+  "chat": {
+    "chat": "Chat",
+    "send-a-message": "Send a message",
+    "can-send-pro-only": "Only patrons can send messages. Please <a class=\"buy-pledge-link\" href=\"[0]\">buy a pledge</a> and ",
+    "your-name": "Your name",
+    "name-changed": "Now your name is ",
+    "show-dates": "Show message date"
+  },
+  "patreon": {
+    "pro-tier": "Pro member Tier on Patreon",
+    "per-month": "Per month",
+    "ads": "<b>Ads free</b> (done)",
+    "1": "<b>Month, 6 month, year price charts</b> on item details page (done)",
+    "2": "<b>Price notifications</b> for favorite items (in plan)",
+    "3": "<b>Name color in chat</b> (in plan)",
+    "note": "Not all of this features implemented right now and will be impemented in near future.",
+    "select": "Select"
+  },
+  "patrons": {
+    "thanks": "Thanks to patrons!",
+    "login": "login"
+  },
+  "buy-pro": {
+    "title": "Historical data available for patrons only.",
+    "goto": "Please go to",
+    "user-page": "user page",
+    "buy-pledge": " and buy pledge.",
+    "click-login": "After this click login with Patreon.",
+    "thanks": "Thank you for your support!",
+    "examples": "You can see charts example on public pages:",
+    "t-7": "T-7 Thermal Goggles with Night Vision Mounts",
+    "labs-card": "TerraGroup Labs access keycard",
+    "btc": "Physical bitcoin"
+  },
+  "adblock": {
+    "detected": "Adblock detected.",
+    "turn-off": "Please disable your Adblock",
+    "or": "or",
+    "buy": "buy a pledge",
+    "remove-ads": " to remove ads",
+    "support": "and support the author.",
+    "info": "More info here"
+  },
+  "discord": {
+    "srv": "Discord server",
+    "title": "Discord Bot for your server",
+    "add": "Add Bot link",
+    "link-desc": "Link your Discord user with site account, to receive notifications",
+    "send-cmd": "Please send this command to discord Bot"
+  }
+}

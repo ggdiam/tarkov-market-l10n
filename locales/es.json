@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "description": "Monitoreo de precios, charts, historial de precios en el flea market de Escape From Tarkov",
+    "keywords": "Tarkov, Escape From Tarkov, EFT, mercado, flea market, precio, precios, monitoreo, trade, histórico, charts, api",
+    "item": {
+      "title": "Tarkov - {0}",
+      "description": "Monitoreo de precios, charts, precio histórico para {0} en el flea market de Escape From Tarkov"
+    }
+  },
+  "price": "precio",
+  "avgDayPrice": "Precio medio (24h)",
+  "avgWeekPrice": "Precio medio (7d)",
+  "perSlot": "por slot",
+  "PerSlot": "Por slot",
+  "tag": {
+    "h1": "Tarkov - flea market - {0} - precios"
+  },
+  "donate": {
+    "support": "Soporta / Dona",
+    "on_patreon": "en Patreon"
+  },
+  "theme": {
+    "theme": "Estilo",
+    "white": "Blanco",
+    "dark": "Negro"
+  },
+  "login": {
+    "with_patreon": "Inicia sesión con Patreon"
+  },
+  "home": {
+    "h1": "Tarkov - flea market - precios",
+    "title": "Precios actuales, monitoreo en línea, gráficos, historial de precios",
+    "desc": "Tarkov flea market monitor de precios",
+    "table": {
+      "img": "Imagen",
+      "title": "Título",
+      "lastPrice": "Último Precio",
+      "avgDayPrice": "Precio medio (24h)",
+      "perSlotPrice": "Precio por slot (tamaño {0})",
+      "change24h": "Cambio en 24h",
+      "change7d": "Cambio en 7d"
+    },
+    "search_ph": "Buscar"
+  },
+  "header": {
+    "thanks": "Thanks / Donate",
+    "lang": "Language",
+    "login": "Login",
+    "updated": "Fecha de actualización",
+    "tools": "Utilidades de la comunidad",
+    "hideout": "Calculador de rentabilidad del hideout",
+    "ammo": "Ammo Analyzer"
+  },
+  "item": {
+    "title": "Gráfico histórico de precios en los últimos 7 días",
+    "back": "Atras",
+    "addToFav": "Añadir a favoritos",
+    "rmFromFav": "Borrar de favoritos",
+    "price": "Precio",
+    "avg-price": "Precio medio",
+    "avg24h": "24 horas",
+    "avg7d": "7 días",
+    "last-price": "Último precio más bajo",
+    "price-per-slot": "Precio por slot",
+    "slots": "Slots",
+    "slot": "Slot",
+    "price-diff": "Diferencia de precio",
+    "change24h": "24 horas",
+    "change7d": "7 días",
+    "wiki-link": "Wiki",
+    "updated": "Actualizado"
+  },
+  "trader": {
+    "thanks": "Gracias a",
+    "price": "Precio mayor de venta por comerciante",
+    "Prapor": "Prapor",
+    "Therapist": "Therapist",
+    "Fence": "Fence",
+    "Skier": "Skier",
+    "Peacekeeper": "Peacekeeper",
+    "Mechanic": "Mechanic",
+    "Ragman": "Ragman",
+    "Jaeger": "Jaeger"
+  },
+  "zoom": {
+    "title": {
+      "7d": "Gráfico histórico de precios en los últimos 7 días",
+      "1m": "Gráfico histórico de precios en los últimos meses",
+      "6m": "Gráfico histórico de precios en los últimos 6 meses",
+      "1y": "Gráfico histórico de precios en el últimos año"
+    },
+    "7d": "7d",
+    "1m": "1м",
+    "6m": "6m",
+    "1y": "1año"
+  },
+  "tags": {
+    "main": "Principal"
+  },
+  "error": "Error",
+  "share": {
+    "text": "Comparte tu sesión con otro dispositivo",
+    "share-url": "Link de enlace compartido (pincha para copiar) y abrir en una nueva ventana",
+    "accept": {
+      "title": "Comparte la sesión",
+      "to-main": "Ir a la página principal"
+    },
+    "error": {
+      "invalid": "el enlace no es valido",
+      "already-accepted": "enlace ya aceptado"
+    }
+  },
+  "user": {
+    "title": "Perfil de usuario"
+  },
+  "chat": {
+    "chat": "Chat",
+    "send-a-message": "Envia un mensaje",
+    "can-send-pro-only": "Solo los Patrons pueden enviar mensajes. Por favor <a class=\"buy-pledge-link\" href=\"[0]\">soportanos en Patreon</a> y ",
+    "your-name": "Tu nombre",
+    "name-changed": "Ahora tu nombre es ",
+    "show-dates": "Mostrar fecha del mensaje"
+  },
+  "patreon": {
+    "pro-tier": "Nivel de Tier en Patreon",
+    "per-month": "Por mes",
+    "ads": "<b>Sitio web libre de publicidad</b> (completado)",
+    "1": "<b>Mes, 6 meses, 1 año tablas de precioss</b> en la página de detalles del artículo (completado)",
+    "2": "<b>Notificaciones de precios</b> para artículos favoritos (planeado)",
+    "3": "<b>Nombre de color en el chat</b> (planeado)",
+    "note": "No todas las funcionalidad están implementadas en este momento, porfavor sea paciente, se implementarán en un próximo futuro.",
+    "select": "Seleccionar"
+  },
+  "patrons": {
+    "thanks": "¡Gracias a los patrons!",
+    "login": "login"
+  },
+  "buy-pro": {
+    "title": "Datos históricos disponibles solo para usuarios.",
+    "goto": "Porfavor ve a la",
+    "user-page": "página de usuario",
+    "buy-pledge": " y soportarnos.",
+    "click-login": "Después de esto, haz clic en iniciar sesión con Patreon.",
+    "thanks": "¡Gracias por apoyarnos!",
+    "examples": "Puedes ver ejemplos de gráficos en páginas públicas:",
+    "t-7": "T-7 Thermal Goggles with Night Vision Mounts",
+    "labs-card": "TerraGroup Labs access keycard",
+    "btc": "Physical bitcoin"
+  },
+  "adblock": {
+    "detected": "Bloqueador de publicidad detectado.",
+    "turn-off": "Porfavor deshabilita tu bloqueador de publicidad",
+    "or": "o",
+    "buy": "soportanos en Patreon",
+    "remove-ads": " para eliminar los anuncios de publicidad",
+    "support": "y para ayudarnos.",
+    "info": "Más información aquí"
+  },
+  "discord": {
+    "srv": "Servidor de Discord",
+    "title": "Añade el Bot de Discord en tu servidor",
+    "add": "Añadir link del bot",
+    "link-desc": "Vincula tu usuario de Discord con tarkov-market para recibir notificaciones",
+    "send-cmd": "Por favor envíe este comando al bot de discord"
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "description": "Online fiyat görüntüleme, şemalar, Escape From Tarkov bit pazarı ürünlerinin fiyat geçmişi",
+    "keywords": "Tarkov, Escape From Tarkov, EFT, pazar, flea market, fiyat, fiyatlar, görüntüleme, ticaret, geçmiş, şemalar, api",
+    "item": {
+      "title": "Tarkov - {0}",
+      "description": "Online fiyat görüntüleme, şemalar, Escape From Tarkov bit pazarında {0} için fiyat geçmişi"
+    }
+  },
+  "price": "fiyat",
+  "avgDayPrice": "Ortalama fiyat (24s)",
+  "avgWeekPrice": "Ortalama fiyat (7g)",
+  "perSlot": "Birim başına",
+  "PerSlot": "Birim başına",
+  "tag": {
+    "h1": "Tarkov - bit pazarı - {0} - fiyatlar"
+  },
+  "donate": {
+    "support": "Bağışla / destek ol",
+    "on_patreon": "Patreon'da"
+  },
+  "theme": {
+    "theme": "Tema",
+    "white": "Beyaz",
+    "dark": "Karanlık"
+  },
+  "login": {
+    "with_patreon": "Patreon ile giriş yapın"
+  },
+  "home": {
+    "h1": "Tarkov - bit pazarı - fiyatlar",
+    "title": "Güncel fiyatlar, online görüntüleme, şemalar, fiyat geçmişi",
+    "desc": "Tarkov online bit pazarı fiyat görüntüleme",
+    "table": {
+      "img": "Görüntü",
+      "title": "Başlık",
+      "lastPrice": "Son fiyat",
+      "avgDayPrice": "Ortalama fiyat (24s)",
+      "perSlotPrice": "Birim başına Fiyat (item size {0})",
+      "change24h": "24s Değişim",
+      "change7d": "7g Değişim"
+    },
+    "search_ph": "Ara"
+  },
+  "header": {
+    "thanks": "Teşekkürler / Bağışla",
+    "lang": "Dil",
+    "login": "Giriş Yap",
+    "updated": "Veri güncellendi",
+    "tools": "Topluluk araçları",
+    "hideout": "Hideout kar hesaplayıcısı",
+    "ammo": "Mermi Analizcisi"
+  },
+  "item": {
+    "title": "Son 7 gün için fiyat geçmişi şeması",
+    "back": "Geri",
+    "addToFav": "Favorilere ekle",
+    "rmFromFav": "Favorilerden çıkar",
+    "price": "Fiyat",
+    "avg-price": "Ortalama fiyat",
+    "avg24h": "24 saat",
+    "avg7d": "7 gün",
+    "last-price": "Son düşük fiyat",
+    "price-per-slot": "Birim başına fiyat",
+    "slots": "Birimler",
+    "slot": "Birim",
+    "price-diff": "Fiyat farkı",
+    "change24h": "24 saat",
+    "change7d": "7 gün",
+    "wiki-link": "Wiki",
+    "updated": "Güncellendi"
+  },
+  "trader": {
+    "thanks": "Şu kişiye teşekkürler",
+    "price": "Satıcının en yüksek fiyatı",
+    "Prapor": "Prapor",
+    "Therapist": "Therapist",
+    "Fence": "Fence",
+    "Skier": "Skier",
+    "Peacekeeper": "Peacekeeper",
+    "Mechanic": "Mechanic",
+    "Ragman": "Ragman",
+    "Jaeger": "Jaeger"
+  },
+  "zoom": {
+    "title": {
+      "7d": "Son 7 gün için fiyat geçmişi şeması",
+      "1m": "Son ay için fiyat geçmişi şeması",
+      "6m": "Son 6 ay için fiyat geçmişi şeması",
+      "1y": "Geçen sene için fiyat geçmişi şeması"
+    },
+    "7d": "7g",
+    "1m": "1ay",
+    "6m": "6ay",
+    "1y": "1y"
+  },
+  "tags": {
+    "main": "Ana"
+  },
+  "error": "Hata",
+  "share": {
+    "text": "Kullanıcı oturumunu başka bir alete taşı",
+    "share-url": "URL'yi paylaşın (kopyalamak için tıklayın) ve yeni bir sayfada açın",
+    "accept": {
+      "title": "Share accept",
+      "to-main": "To main"
+    },
+    "error": {
+      "invalid": "link geçerli değil",
+      "already-accepted": "link zaten kabul edilmiş"
+    }
+  },
+  "user": {
+    "title": "Kullanıcı profili"
+  },
+  "chat": {
+    "chat": "Sohbet",
+    "send-a-message": "Mesaj gönder",
+    "can-send-pro-only": "Sadece bağışçılar mesaj gönderebilirler. Lütfen <a class=\"buy-pledge-link\" href=\"[0]\">buy a pledge</a> ve ",
+    "your-name": "Adınız",
+    "name-changed": "Yeni adınız ",
+    "show-dates": "Mesaj tarihini göster"
+  },
+  "patreon": {
+    "pro-tier": "Patreon'da Üst Seviye üyelik",
+    "per-month": "Aylık",
+    "ads": "<b>Reklam yok</b> (eklendi)",
+    "1": "<b>Ay, 6 ay, yıllık fiyat şemaları</b> ürün detayları sayfasında (eklendi)",
+    "2": "Favori ürünleriniz için <b>fiyat bildirimleri</b> (plan aşamasında)",
+    "3": "<b>Sohbette renkli isim</b> (plan aşamasında)",
+    "note": "Bu özelliklerin tamamı henüz eklenmedi ve yakın gelecekte eklenecek.",
+    "select": "Seç"
+  },
+  "patrons": {
+    "thanks": "Bağışçılara teşekkürler!",
+    "login": "giriş yap"
+  },
+  "buy-pro": {
+    "title": "Geçmiş veriler sadece bağışçılara mevcuttur.",
+    "goto": "Lütfen",
+    "user-page": "kullanıcı sayfasına gidin",
+    "buy-pledge": " ve bağışta bulunun.",
+    "click-login": "Sonra Patreon'la giriş yapmak için tıklayın.",
+    "thanks": "Desteğiniz için teşekkür ederim!",
+    "examples": "Şemaların örneklerini toplum sayfalarında görebilirsiniz:",
+    "t-7": "T-7 Thermal Goggles with Night Vision Mounts",
+    "labs-card": "TerraGroup Labs access keycard",
+    "btc": "Physical bitcoin"
+  },
+  "adblock": {
+    "detected": "Adblock farkedildi.",
+    "turn-off": "Lütfen Adblock'unuzu kapatın",
+    "or": "ya da",
+    "buy": "reklamları kaldırmak için",
+    "remove-ads": " bağışta bulunun",
+    "support": "ve yaratıcıya destek olun.",
+    "info": "Daha fazla bilgi için "
+  },
+  "discord": {
+    "srv": "Discord sunucusu",
+    "title": "Sunucunuz için Discord Bot'u",
+    "add": "Bot ekleme linki",
+    "link-desc": "Bildirim almak için Discord hesabınızı siteye bağlayın",
+    "send-cmd": "Lütfen bu komutu discord Bot'una gönderin"
+  }
+}

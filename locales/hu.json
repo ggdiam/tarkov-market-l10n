@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "description": "Ár online megfigyelés, diagramok, ártörténet az Escape From Tarkov flea market tárgyain",
+    "keywords": "Tarkov, Escape From Tarkov, EFT, piac, flea market, ár, árak, megfigyelés, csere, ártörténet, diagramok, applikációk",
+    "item": {
+      "title": "Tarkov - {0}",
+      "description": "Online ár megfigyelés, diagramok, {0} ártörténet az Escape From Tarkov flea market-en"
+    }
+  },
+  "price": "ár",
+  "avgDayPrice": "Átlag ár (24ó)",
+  "avgWeekPrice": "Átlag ár (7n)",
+  "perSlot": "1 Slotra",
+  "PerSlot": "1 Slotra",
+  "tag": {
+    "h1": "Tarkov - flea market - {0} - árak"
+  },
+  "donate": {
+    "support": "Támogatás",
+    "on_patreon": "Patreonon"
+  },
+  "theme": {
+    "theme": "Téma",
+    "white": "Fehér",
+    "dark": "Sötét"
+  },
+  "login": {
+    "with_patreon": "Bejelentkezés Patreonnal"
+  },
+  "home": {
+    "h1": "Tarkov - flea market - árak",
+    "title": "Aktuális árak, online megfigyelés, diagramok, ártörténet",
+    "desc": "Tarkov online flea market ár megfigyelés",
+    "table": {
+      "img": "Kép",
+      "title": "Cím",
+      "lastPrice": "Utolsó ár",
+      "avgDayPrice": "Átlag ár (24ó)",
+      "perSlotPrice": "Ár 1 Slot-ra (item size {0})",
+      "change24h": "24ó Változás",
+      "change7d": "7n Változás"
+    },
+    "search_ph": "Keresés"
+  },
+  "header": {
+    "thanks": "Köszönöm / Támogatás",
+    "lang": "Nyelv",
+    "login": "Bejelentkezés",
+    "updated": "Adatok frissítve",
+    "tools": "Közösségi eszközök",
+    "hideout": "Hideout: Nyereség számológép",
+    "ammo": "Lőszer elemző"
+  },
+  "item": {
+    "title": "Ártörténet táblázat az utólsó 7 napra",
+    "back": "Vissza",
+    "addToFav": "Hozzáadás a kedvencekhez",
+    "rmFromFav": "Eltávolítás a kedvencek közül",
+    "price": "Ár",
+    "avg-price": "Átlag ár",
+    "avg24h": "24 óra",
+    "avg7d": "7 nap",
+    "last-price": "Legutóbbi legkisebb ár",
+    "price-per-slot": "Ár 1 Slot-ra",
+    "slots": "Slotok",
+    "slot": "Slot",
+    "price-diff": "Árkülönbség",
+    "change24h": "24 óra",
+    "change7d": "7 nap",
+    "wiki-link": "Wiki",
+    "updated": "Frissítve"
+  },
+  "trader": {
+    "thanks": "Köszönet",
+    "price": "Legmagasabb eladási ár kereskedőnként",
+    "Prapor": "Prapor",
+    "Therapist": "Therapist",
+    "Fence": "Fence",
+    "Skier": "Skier",
+    "Peacekeeper": "Peacekeeper",
+    "Mechanic": "Mechanic",
+    "Ragman": "Ragman",
+    "Jaeger": "Jaeger"
+  },
+  "zoom": {
+    "title": {
+      "7d": "Ártörténet diagram az utolsó 7 napra",
+      "1m": "Ártörténet diagram az utolsó hónapra",
+      "6m": "Ártörténet diagram az utolsó 6 hónapra",
+      "1y": "Ártörténet diagram az utolsó évre"
+    },
+    "7d": "Hét",
+    "1m": "Hónap",
+    "6m": "Félév",
+    "1y": "Év"
+  },
+  "tags": {
+    "main": "Fő"
+  },
+  "error": "Hiba",
+  "share": {
+    "text": "Oszd meg a felhasználói tevékenységedet egy más eszközzel",
+    "share-url": "Megosztási url (kattints a másoláshoz) és nyisd meg egy új böngészőben",
+    "accept": {
+      "title": "Megosztás elfogadása",
+      "to-main": "A főoldalra"
+    },
+    "error": {
+      "invalid": "megosztási link nem létezik",
+      "already-accepted": "megosztási link már elfogadott"
+    }
+  },
+  "user": {
+    "title": "Felhasználói profil"
+  },
+  "chat": {
+    "chat": "Chat",
+    "send-a-message": "Üzenet küldése",
+    "can-send-pro-only": "Csak a patronok küldhetnek üzeneteket. Kérlek <a class=\"buy-pledge-link\" href=\"[0]\">támogass</a> és ",
+    "your-name": "Neved",
+    "name-changed": "A neved mostantól ",
+    "show-dates": "Üzenet dátuma"
+  },
+  "patreon": {
+    "pro-tier": "Pro tag Szint a Patreonon",
+    "per-month": "Hónaponta",
+    "ads": "<b>Reklámmentes</b> (kész)",
+    "1": "<b>Hónap, 6 hónap, évi ár diagramok</b> a tárgy részletei oldalon (kész)",
+    "2": "<b>Ár értesítések</b> a kedvenc tárgyakhoz (tervezésben)",
+    "3": "<b>Név szín a chatben</b> (tervezésben)",
+    "note": "Nem az összes funkció van jelenleg teljesítve és a közeljövőben lesznek hozzáadva.",
+    "select": "Csatlakozz a programhoz!"
+  },
+  "patrons": {
+    "thanks": "Köszönet a patronoknak!",
+    "login": "bejelentkezés"
+  },
+  "buy-pro": {
+    "title": "Történelmi adatok csak a patronoknak elérhetők.",
+    "goto": "Kérlek menj a",
+    "user-page": "felhasználói oldal",
+    "buy-pledge": " és támogass.",
+    "click-login": "Ezután jelentkezz be Patreonnal.",
+    "thanks": "Köszönöm a támogatásod!",
+    "examples": "Láthatja a diagramok példáját a nyilvános oldalakon:",
+    "t-7": "T-7 Hőlátó Szemüveg éjjellátó tartóval",
+    "labs-card": "TerraGroup Labs hozzáférési kártya",
+    "btc": "Fizikai bitcoin"
+  },
+  "adblock": {
+    "detected": "Adblock észlelve.",
+    "turn-off": "Kérlek kapcsold ki az Adblockot",
+    "or": "vagy",
+    "buy": "támogass",
+    "remove-ads": " a reklámok eltüntetéséhez",
+    "support": "és támogasd a fejlesztőt.",
+    "info": "Több információ itt"
+  },
+  "discord": {
+    "srv": "Discord szerver",
+    "title": "Discord Bot a te szerveredhez",
+    "add": "Discord Bot hozzáadása",
+    "link-desc": "Kösd össze a Discord profilodat ezzel a weboldal profillal, hogy értesítéseket kapj",
+    "send-cmd": "Kérlek küld ezt a parancsot a Discord botnak"
+  }
+}

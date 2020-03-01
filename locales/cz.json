@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "description": "Online sledování cen, grafy, historie cen předmětů na flea marketu hry Escape from Tarkov",
+    "keywords": "Tarkov, Escape from Tarkov, EFT, obchod, flea market, cena, ceny, sledování, obchod, historie, grafy, aplikace",
+    "item": {
+      "title": "Tarkov - {0}",
+      "description": "Online sledování cen, grafy, historie ceny {0} na flea marketu hry Escape from Tarkov"
+    }
+  },
+  "price": "Cena",
+  "avgDayPrice": "Průměrná cena (24h)",
+  "avgWeekPrice": "Průměrná cena (7d)",
+  "perSlot": "¨za 1 slot",
+  "PerSlot": "za 1 slot",
+  "tag": {
+    "h1": "Tarkov - flea market - {0} - ceny"
+  },
+  "donate": {
+    "support": "Přispěj / podpoř",
+    "on_patreon": "nás na Patreonu"
+  },
+  "theme": {
+    "theme": "Motiv",
+    "white": "Světlý",
+    "dark": "Tmavý"
+  },
+  "login": {
+    "with_patreon": "Přihlášení přes Patreon"
+  },
+  "home": {
+    "h1": "Tarkov - flea market - ceny",
+    "title": "Aktuální ceny, online sledování, grafy, historie cen",
+    "desc": "Online sledování cen předmětů na flea marketu EFT",
+    "table": {
+      "img": "Obraz",
+      "title": "Název",
+      "lastPrice": "Poslední cena",
+      "avgDayPrice": "Průměrná cena (24h)",
+      "perSlotPrice": "Cena za 1 slot (item size {0})",
+      "change24h": "Změna za 24h",
+      "change7d": "Změna za 7d"
+    },
+    "search_ph": "Hledat"
+  },
+  "header": {
+    "thanks": "Poděkování / Podpora",
+    "lang": "Jazyk",
+    "login": "Přihlášení",
+    "updated": "Data byla aktualizována",
+    "tools": "Komunitní nástroje",
+    "hideout": "Hideout: kalkulátor zisku",
+    "ammo": "Ammo Analyzer"
+  },
+  "item": {
+    "title": "Graf vývoje ceny za posledních 7 dní",
+    "back": "Zpět na hlavní stránku",
+    "addToFav": "Přidat do oblíbených",
+    "rmFromFav": "Odebrat z oblíbených",
+    "price": "Cena",
+    "avg-price": "Průměrná cena za",
+    "avg24h": "24 hodin",
+    "avg7d": "7 dní",
+    "last-price": "Poslední nejnižší cena",
+    "price-per-slot": "Cena za 1 pole",
+    "slots": "Pole",
+    "slot": "Pole",
+    "price-diff": "Cenový rozdíl za",
+    "change24h": "24 hodin",
+    "change7d": "7 dní",
+    "wiki-link": "Wiki",
+    "updated": "Aktualizováno"
+  },
+  "trader": {
+    "thanks": "Poděkování patří",
+    "price": "Nejvyšší cena u obchodníka",
+    "Prapor": "Prapor",
+    "Therapist": "Therapist",
+    "Fence": "Fence",
+    "Skier": "Skier",
+    "Peacekeeper": "Peacekeeper",
+    "Mechanic": "Mechanic",
+    "Ragman": "Ragman",
+    "Jaeger": "Jaeger"
+  },
+  "zoom": {
+    "title": {
+      "7d": "Graf vývoje ceny za poslední týden",
+      "1m": "Graf vývoje ceny za poslední měsíc",
+      "6m": "Graf vývoje ceny za poslední půlrok",
+      "1y": "Graf vývoje ceny za poslední rok"
+    },
+    "7d": "Týden",
+    "1m": "Měsíc",
+    "6m": "Půlrok",
+    "1y": "Rok"
+  },
+  "tags": {
+    "main": "Hlavní"
+  },
+  "error": "Chyba",
+  "share": {
+    "text": "Nasdílej si své uživatelské rozhraní i na další zařízení!",
+    "share-url": "Sdílej url (link ke kopírování) a otevři si nás v novém prohlížeči",
+    "accept": {
+      "title": "Share accept",
+      "to-main": "To main"
+    },
+    "error": {
+      "invalid": "odkaz ke sdílení není platný",
+      "already-accepted": "odkaz ke sdílení byl úspěšně přijat"
+    }
+  },
+  "user": {
+    "title": "Profil uživatele"
+  },
+  "chat": {
+    "chat": "Chat",
+    "send-a-message": "Napsat zprávu",
+    "can-send-pro-only": "Pouze patroni mohou posílat zprávy. Prosím, <a class=\"buy-pledge-link\" href=\"[0]\">buy a pledge</a> and ",
+    "your-name": "Vaše přezdívka",
+    "name-changed": "Vaše přezdívka je ",
+    "show-dates": "Zobrazovat čas zprávy"
+  },
+  "patreon": {
+    "pro-tier": "Prémiové členství díky Patreonu",
+    "per-month": "Měsíčně",
+    "ads": "<b>Bez reklam</b> (hotovo)",
+    "1": "<b>Měsíční, půlroční a roční grafy cen</b> na stránkách konkrétních předmětů (hotovo)",
+    "2": "<b>Upozornění při změně cen</b> oblíbených předmětů (v plánu)",
+    "3": "<b>Možnost změny barvy přezdívky v chatu</b> (v plánu)",
+    "note": "Některé z těchto funkcí a spousta dalších bude v blízké budoucnosti teprve implementována.",
+    "select": "Zapoj se do programu!"
+  },
+  "patrons": {
+    "thanks": "Díky všem patronům!",
+    "login": "Přihlášení"
+  },
+  "buy-pro": {
+    "title": "Historická data jsou dostupná pouze patronům.",
+    "goto": "Prosím běžte na",
+    "user-page": "uživatelskou stránku",
+    "buy-pledge": " a zakupte si odznak.",
+    "click-login": "Poté se přihlašte pomocí Patreonu.",
+    "thanks": "Mockrát děkujeme za Vaši podporu!",
+    "examples": "Příklady grafů můžete vidět na veřejných stránkách:",
+    "t-7": "T-7 tepelné brýle s držáky pro noční vidění",
+    "labs-card": "TerraGroup Labs přístupová karta",
+    "btc": "Fyzický bitcoin"
+  },
+  "adblock": {
+    "detected": "Adblock detekován.",
+    "turn-off": "Prosím deaktivujte si Adblock",
+    "or": "nebo",
+    "buy": "zakupte si odznak",
+    "remove-ads": " k odstranění reklam",
+    "support": "a podpořte tvůrce webu.",
+    "info": "Více informací naleznete zde"
+  },
+  "discord": {
+    "srv": "Discord Server",
+    "title": "Bot pro Váš server na Discordu",
+    "add": "Přidat odkaz na Bota",
+    "link-desc": "Chcete-li dostávat oznámení, propojte Váš Discord účet s účtem této stránky",
+    "send-cmd": "Prosím, zašlete tento příkaz Vašemu Discord Botovi"
+  }
+}
