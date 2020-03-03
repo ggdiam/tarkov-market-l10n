@@ -100,14 +100,14 @@
   "error": "Fehler",
   "share": {
     "text": "Teile deine Sitzung mit einem anderen Gerät",
-    "share-url": "Teile die URL (klicken zum kopieren) und öffne sie in einem neuen Browser",
+    "share-url": "Teile die URL (klicke zum kopieren) und öffne sie in einem neuen Browser",
     "accept": {
       "title": "Sitzung annehmen",
       "to-main": "Zur Startseite"
     },
     "error": {
       "invalid": "Teilen-Link ungültig",
-      "already-accepted": "Dieser 'Teilen-Link' wurde bereits angenommen."
+      "already-accepted": "Dieser Teilen-Link wurde bereits angenommen."
     }
   },
   "user": {
@@ -124,7 +124,7 @@
   "patreon": {
     "pro-tier": "Pro Mitgliedsstufe auf Patreon",
     "per-month": "Pro Monat",
-    "ads": "<b>Werbefrei</b> (erledigt)",
+    "ads": "<b>Ohne Werbung</b> (erledigt)",
     "1": "<b> Monats-, 6 Monate-, Jahresdiagramme</b> auf der Artikeldetailseite (erledigt)",
     "2": "<b>Preisbenachrichtugungen</b> für Lieblingsartikel (geplant)",
     "3": "<b>Namensfarbe im Chat</b> (geplant)",
@@ -161,7 +161,7 @@
   "discord": {
     "srv": "Discord-Server",
     "title": "Discord-Bot für deinen Server",
-    "add": "Klicker hier, um den Bot hinzuzufügen",
+    "add": "Klicke hier, um den Bot hinzuzufügen",
     "link-desc": "Verlinke dein Discord-Konto mit deinem Seitenaccount um Benachrichtigungen zu erhalten.",
     "send-cmd": "Bitte sende diese Nachricht an den Discord-Bot"
   }
