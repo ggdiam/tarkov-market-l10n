@@ -1,10 +1,10 @@
 {
   "meta": {
-    "description": "Online Preisüberwachung, Diagramme, Preisentwicklung für Escape From Tarkov Artikel",
-    "keywords": "Tarkov, Escape From Tarkov, EFT, Markt, flea market, Flohmarkt, Preis, Preise, Überwachung, Handeln, trade, api, Diagramme, Tabellen, Preisentwicklung, Charts",
+    "description": "Online Preisabfrage, Diagramme, Preisverlauf für Escape From Tarkov-Items",
+    "keywords": "Tarkov, Escape From Tarkov, EFT, Markt, flea market, Flohmarkt, Preis, Preise, Überwachung, Handeln, trade, api, Diagramme, Tabellen, Preisverlauf, Charts",
     "item": {
       "title": "Tarkov - {0}",
-      "description": "Online price monitoring, charts, price history for {0} on Escape From Tarkov flea market | Online Preisüberwachung, Diagramme, Preisentwicklung für den {0} Escape From Tarkov Flohmarkt (Flea Market)"
+      "description": "Online Abfrage, Diagramme, Preisverlauf für {0} - Escape From Tarkov-Flohmarkt"
     }
   },
   "price": "Preis",
@@ -13,43 +13,43 @@
   "perSlot": "pro Slot",
   "PerSlot": "pro Slot",
   "tag": {
-    "h1": "Tarkov - Flohmarkt (flea market) - {0} - Preise"
+    "h1": "Tarkov - Flohmarkt - {0} - Preise"
   },
   "donate": {
-    "support": "Spenden / Unterstützen",
+    "support": "Unterstütze uns",
     "on_patreon": "auf Patreon"
   },
   "theme": {
-    "theme": "Theme",
-    "white": "hell",
-    "dark": "dunkel"
+    "theme": "Skin",
+    "white": "Hell",
+    "dark": "Dunkel"
   },
   "login": {
-    "with_patreon": "Mit Patreon einloggen"
+    "with_patreon": "Mit Patreon anmelden"
   },
   "home": {
-    "h1": "Tarkov - Flohmarkt (Flea Market) - Preise",
-    "title": "Tatsächliche Preise, Online Preisüberwachung, Diagramme, Preisentwicklung",
-    "desc": "Tarkov online Flohmarkt (flea market) Preisüberwachung",
+    "h1": "Tarkov - Flohmarkt - Preise",
+    "title": "Aktuelle Preise, Online-Abfrage, Diagramme, Preisverlauf",
+    "desc": "Tarkov Online-Flohmarkt-Preisabfrage",
     "table": {
-      "img": "Bild",
+      "img": "Icon",
       "title": "Titel",
       "lastPrice": "Letzter Preis",
       "avgDayPrice": "Durchschnittlicher Preis (24h)",
       "perSlotPrice": "Preis pro Slot (Artikelgröße {0})",
-      "change24h": "Veränderung letzte 24 Stunden",
-      "change7d": "Veränderung letzte 7 Tage"
+      "change24h": "Veränderung in den letzten 24 Stunden",
+      "change7d": "Veränderung in den letzten 7 Tage"
     },
     "search_ph": "Suche"
   },
   "header": {
-    "thanks": "Danke / Spenden",
+    "thanks": "Danksagungen / Spenden",
     "lang": "Language",
     "login": "Login",
     "updated": "Daten aktualisiert",
-    "tools": "Community Werkzeuge",
-    "hideout": "Versteck Gewinnrechner",
-    "ammo": "Ammo Analyzer"
+    "tools": "Community-Tools",
+    "hideout": "Versteck-Profitrechner",
+    "ammo": "Munitionsanalyzer"
   },
   "item": {
     "title": "Preisverlaufsdiagramm für die letzten 7 Tage",
@@ -64,15 +64,15 @@
     "price-per-slot": "Preis pro Slot",
     "slots": "Slots",
     "slot": "Slot",
-    "price-diff": "Preisunterschied",
+    "price-diff": "Preisdifferenz",
     "change24h": "24 Stunden",
     "change7d": "7 Tage",
     "wiki-link": "Wiki",
     "updated": "Aktualisiert"
   },
   "trader": {
-    "thanks": "Dank an",
-    "price": "Höchster Verkaufspreis nach Händler",
+    "thanks": "Danke dafür, ",
+    "price": "Bester Verkaufspreis der Händler",
     "Prapor": "Prapor",
     "Therapist": "Therapist",
     "Fence": "Fence",
@@ -84,10 +84,10 @@
   },
   "zoom": {
     "title": {
-      "7d": "Preisverlaufsdiagramm für die letzten 7 Tage",
-      "1m": "Preisverlaufsdiagramm für den letzten Monat",
-      "6m": "Preisverlaufsdiagramm für die letzten 6 Monate",
-      "1y": "Preisverlaufsdiagramm für das letzte Jahr"
+      "7d": "Preisverlaufsdiagramm der letzten 7 Tage",
+      "1m": "Preisverlaufsdiagramm der letzten Monat",
+      "6m": "Preisverlaufsdiagramm der letzten 6 Monate",
+      "1y": "Preisverlaufsdiagramm der letzte Jahr"
     },
     "7d": "7d",
     "1m": "1м",
@@ -100,18 +100,18 @@
   "error": "Fehler",
   "share": {
     "text": "Teile deine Sitzung mit einem anderen Gerät",
-    "share-url": "Teile die URL (klicken zum kopieren) und öffne sie in einem neuen Browser",
+    "share-url": "Teile die URL (klicke zum kopieren) und öffne sie in einem neuen Browser",
     "accept": {
-      "title": "Teilen akzeptieren",
-      "to-main": "To main"
+      "title": "Sitzung annehmen",
+      "to-main": "Zur Startseite"
     },
     "error": {
       "invalid": "Teilen-Link ungültig",
-      "already-accepted": "Teilen-Link bereits akzeptiert"
+      "already-accepted": "Dieser Teilen-Link wurde bereits angenommen."
     }
   },
   "user": {
-    "title": "Benutzerprofil"
+    "title": "Profil"
   },
   "chat": {
     "chat": "Chat",
@@ -124,11 +124,11 @@
   "patreon": {
     "pro-tier": "Pro Mitgliedsstufe auf Patreon",
     "per-month": "Pro Monat",
-    "ads": "<b>Werbefrei</b> (erledigt)",
+    "ads": "<b>Ohne Werbung</b> (erledigt)",
     "1": "<b> Monats-, 6 Monate-, Jahresdiagramme</b> auf der Artikeldetailseite (erledigt)",
     "2": "<b>Preisbenachrichtugungen</b> für Lieblingsartikel (geplant)",
     "3": "<b>Namensfarbe im Chat</b> (geplant)",
-    "note": "Es sind noch nicht alle Features eingebaut. Die restlichen folgen in naher Zukunft!",
+    "note": "Es sind noch nicht alle Features eingebaut. Weitere Funktionen folgen bald!",
     "select": "Auswählen"
   },
   "patrons": {
@@ -136,31 +136,33 @@
     "login": "Login"
   },
   "buy-pro": {
-    "title": "Vergangenheitswerte sind nur für Patrons verfügbar.",
+    "title": "Ältere Werte sind nur für Patrons verfügbar.",
     "goto": "Bitte gehe auf",
     "user-page": "die Benutzerseite",
     "buy-pledge": " und kaufe einen Pledge.",
-    "click-login": "Klicke danach auf -mit Patreon einloggen-",
+    "click-login": "Klicke danach auf -Mit Patreon einloggen-",
     "thanks": "Danke für deine Unterstützung!",
     "examples": "Diagrammbeispiele findest du auf folgenden Seiten:",
-    "t-7": "T-7 Thermal Goggles with Night Vision Mounts ",
-    "labs-card": "TerraGroup Labs access keycard",
-    "btc": "Physical bitcoin"
+    
+    "_comment": "Item names can currently not be translated. Doing so would break the search engine.",
+    "t-7": "T-7 Thermal Goggles with Night Vision Mounts",
+    "labs-card": "TerraGroup Labs Access Key Card",
+    "btc": "Physical Bitcoin"
   },
   "adblock": {
     "detected": "AdBlock erkannt.",
     "turn-off": "Bitte deaktiviere deinen AdBlock",
     "or": "oder",
-    "buy": "Kaufe einen Pledge",
+    "buy": "kaufe einen Pledge",
     "remove-ads": " um die Werbeschaltungen zu entfernen",
-    "support": " und den Autor zu unterstützen",
-    "info": "Weitere Infos gibts hier"
+    "support": " und die Entwickler zu unterstützen",
+    "info": "Hier findest du mehr"
   },
   "discord": {
-    "srv": "Discord server",
-    "title": "Discord Bot für deinen Server",
-    "add": "Bot Link hinzufügen",
-    "link-desc": "Verlinke deinen Discordaccount mit deinem Seitenaccount um Benachrichtigungen zu erhalten.",
-    "send-cmd": "Please send this command to discord Bot | Bitte sende diesen Befehl an den Discord Bot"
+    "srv": "Discord-Server",
+    "title": "Discord-Bot für deinen Server",
+    "add": "Klicke hier, um den Bot hinzuzufügen",
+    "link-desc": "Verlinke dein Discord-Konto mit deinem Seitenaccount um Benachrichtigungen zu erhalten.",
+    "send-cmd": "Bitte sende diese Nachricht an den Discord-Bot"
   }
 }
