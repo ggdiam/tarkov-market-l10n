@@ -47,6 +47,7 @@
     "lang": "Dil",
     "login": "Giriş Yap",
     "updated": "Veri güncellendi",
+    "api-tools": "Api / Tools",
     "tools": "Topluluk araçları",
     "hideout": "Hideout kar hesaplayıcısı",
     "ammo": "Mermi Analizcisi"
@@ -124,8 +125,9 @@
   "patreon": {
     "pro-tier": "Patreon'da Üst Seviye üyelik",
     "per-month": "Aylık",
-    "ads": "<b>Reklam yok</b> (eklendi)",
-    "1": "<b>Ay, 6 ay, yıllık fiyat şemaları</b> ürün detayları sayfasında (eklendi)",
+    "ads": "<b>Reklam yok</b>",
+    "api": "<b>Api access</b>",
+    "1": "<b>Ay, 6 ay, yıllık fiyat şemaları</b> ürün detayları sayfasında",
     "2": "Favori ürünleriniz için <b>fiyat bildirimleri</b> (plan aşamasında)",
     "3": "<b>Sohbette renkli isim</b> (plan aşamasında)",
     "note": "Bu özelliklerin tamamı henüz eklenmedi ve yakın gelecekte eklenecek.",

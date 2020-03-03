@@ -47,6 +47,7 @@
     "lang": "Language",
     "login": "Login",
     "updated": "Fecha de actualización",
+    "api-tools": "Api / Tools",
     "tools": "Utilidades de la comunidad",
     "hideout": "Calculador de rentabilidad del hideout",
     "ammo": "Ammo Analyzer"
@@ -124,8 +125,9 @@
   "patreon": {
     "pro-tier": "Nivel de Tier en Patreon",
     "per-month": "Por mes",
-    "ads": "<b>Sitio web libre de publicidad</b> (completado)",
-    "1": "<b>Mes, 6 meses, 1 año tablas de precioss</b> en la página de detalles del artículo (completado)",
+    "ads": "<b>Sitio web libre de publicidad</b>",
+    "api": "<b>Api access</b>",
+    "1": "<b>Mes, 6 meses, 1 año tablas de precioss</b> en la página de detalles del artículo",
     "2": "<b>Notificaciones de precios</b> para artículos favoritos (planeado)",
     "3": "<b>Nombre de color en el chat</b> (planeado)",
     "note": "No todas las funcionalidad están implementadas en este momento, porfavor sea paciente, se implementarán en un próximo futuro.",

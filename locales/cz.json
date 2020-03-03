@@ -47,6 +47,7 @@
     "lang": "Jazyk",
     "login": "Přihlášení",
     "updated": "Data byla aktualizována",
+    "api-tools": "Api / Tools",
     "tools": "Komunitní nástroje",
     "hideout": "Hideout: kalkulátor zisku",
     "ammo": "Ammo Analyzer"
@@ -124,8 +125,9 @@
   "patreon": {
     "pro-tier": "Prémiové členství díky Patreonu",
     "per-month": "Měsíčně",
-    "ads": "<b>Bez reklam</b> (hotovo)",
-    "1": "<b>Měsíční, půlroční a roční grafy cen</b> na stránkách konkrétních předmětů (hotovo)",
+    "ads": "<b>Bez reklam</b>",
+    "api": "<b>Api access</b>",
+    "1": "<b>Měsíční, půlroční a roční grafy cen</b> na stránkách konkrétních předmětů",
     "2": "<b>Upozornění při změně cen</b> oblíbených předmětů (v plánu)",
     "3": "<b>Možnost změny barvy přezdívky v chatu</b> (v plánu)",
     "note": "Některé z těchto funkcí a spousta dalších bude v blízké budoucnosti teprve implementována.",

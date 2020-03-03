@@ -47,6 +47,7 @@
     "lang": "Language",
     "login": "Login",
     "updated": "Data updated",
+    "api-tools": "Api / Tools",
     "tools": "Community tools",
     "hideout": "Hideout profit calculator",
     "ammo": "Ammo Analyzer"
@@ -124,8 +125,9 @@
   "patreon": {
     "pro-tier": "Pro member Tier on Patreon",
     "per-month": "Per month",
-    "ads": "<b>Ads free</b> (done)",
-    "1": "<b>Month, 6 month, year price charts</b> on item details page (done)",
+    "ads": "<b>Ads free</b>",
+    "api": "<b>Api access</b>",
+    "1": "<b>Month, 6 month, year price charts</b> on item details page",
     "2": "<b>Price notifications</b> for favorite items (in plan)",
     "3": "<b>Name color in chat</b> (in plan)",
     "note": "Not all of this features implemented right now and will be impemented in near future.",

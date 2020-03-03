@@ -47,6 +47,7 @@
     "lang": "Language",
     "login": "Login",
     "updated": "Daten aktualisiert",
+    "api-tools": "Api / Tools",
     "tools": "Community-Tools",
     "hideout": "Versteck-Profitrechner",
     "ammo": "Munitionsanalyzer"
@@ -124,8 +125,9 @@
   "patreon": {
     "pro-tier": "Pro Mitgliedsstufe auf Patreon",
     "per-month": "Pro Monat",
-    "ads": "<b>Ohne Werbung</b> (erledigt)",
-    "1": "<b> Monats-, 6 Monate-, Jahresdiagramme</b> auf der Artikeldetailseite (erledigt)",
+    "ads": "<b>Ohne Werbung</b>",
+    "api": "<b>Api access</b>",
+    "1": "<b> Monats-, 6 Monate-, Jahresdiagramme</b> auf der Artikeldetailseite",
     "2": "<b>Preisbenachrichtugungen</b> für Lieblingsartikel (geplant)",
     "3": "<b>Namensfarbe im Chat</b> (geplant)",
     "note": "Es sind noch nicht alle Features eingebaut. Weitere Funktionen folgen bald!",
@@ -143,8 +145,6 @@
     "click-login": "Klicke danach auf -Mit Patreon einloggen-",
     "thanks": "Danke für deine Unterstützung!",
     "examples": "Diagrammbeispiele findest du auf folgenden Seiten:",
-    
-    "_comment": "Item names can currently not be translated. Doing so would break the search engine.",
     "t-7": "T-7 Thermal Goggles with Night Vision Mounts",
     "labs-card": "TerraGroup Labs Access Key Card",
     "btc": "Physical Bitcoin"
