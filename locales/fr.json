@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "description": "Surveillance des prix en lignes, graphiques, historique des prix des objets du marché d'Escape From Tarkov",
+    "keywords": "Tarkov, Escape From Tarkov, EFT, marché, flea market, prix, prix, surveillance, échanges, historique, graphiques, api",
+    "item": {
+      "title": "Tarkov - {0}",
+      "description": "Surveillance des prix en lignes, graphiques, historique des prix pour {0} sur le marché d'Escape From Tarkov"
+    }
+  },
+  "price": "prix",
+  "avgDayPrice": "Prix moyen (24h)",
+  "avgWeekPrice": "Prix moyen (7j)",
+  "perSlot": "Par emplacement",
+  "PerSlot": "Par emplacement",
+  "tag": {
+    "h1": "Tarkov - marché - {0} - prix"
+  },
+  "donate": {
+    "support": "Donation / support",
+    "on_patreon": "Sur Patreon"
+  },
+  "theme": {
+    "theme": "Theme",
+    "white": "Blanc",
+    "dark": "Noir"
+  },
+  "login": {
+    "with_patreon": "Ce connecter avec Patreon"
+  },
+  "home": {
+    "h1": "Tarkov - marché - prix",
+    "title": "Prix actuel, surveillance en ligne, graphique, historique des prix",
+    "desc": "Surveillance en ligne des prix du marché de Tarkov",
+    "table": {
+      "img": "Image",
+      "title": "Titre",
+      "lastPrice": "Dernier prix",
+      "avgDayPrice": "Prix moyen (24h)",
+      "perSlotPrice": "Prix par emplacement (taille de l'objet {0})",
+      "change24h": "Changement depuis 24h",
+      "change7d": "Changement depuis 7j"
+    },
+    "search_ph": "Recherche"
+  },
+  "header": {
+    "thanks": "Remerciement / Donation",
+    "lang": "Langue",
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "updated": "Données mises à jour",
+    "api-tools": "Api / Outils",
+    "tools": "Outils communautaires",
+    "hideout": "Calculateur de profit de la planque",
+    "ammo": "Analyseur de munitions"
+  },
+  "item": {
+    "title": "Tableau de l'historique des prix pour les 7 derniers jours",
+    "back": "Retour",
+    "addToFav": "Ajouter aux favoris",
+    "rmFromFav": "Retirer des favoris",
+    "price": "Prix",
+    "avg-price": "Prix moyen",
+    "avg24h": "24 heures",
+    "avg7d": "7 jours",
+    "last-price": "Dernier prix le plus bas",
+    "price-per-slot": "Prix par emplacement",
+    "slots": "Emplacements",
+    "slot": "Emplacement",
+    "price-diff": "Différence de prix",
+    "change24h": "24 heures",
+    "change7d": "7 jours",
+    "wiki-link": "Wiki",
+    "updated": "Mis à jour"
+  },
+  "trader": {
+    "thanks": "Grace à",
+    "price": "Prix de vente le plus élevé par marchand",
+    "Prapor": "Prapor",
+    "Therapist": "Toubib",
+    "Fence": "Fence",
+    "Skier": "Skier",
+    "Peacekeeper": "Peacekeeper",
+    "Mechanic": "Mecano",
+    "Ragman": "Ragman",
+    "Jaeger": "Jaeger"
+  },
+  "zoom": {
+    "title": {
+      "7d": "Tableau de l'historique des prix pour les 7 derniers jours",
+      "1m": "Graphique de l'historique des prix du dernier mois",
+      "6m": "Tableau de l'historique des prix pour les 6 derniers mois",
+      "1y": "Tableau de l'historique des prix pour la dernière année"
+    },
+    "7d": "7j",
+    "1m": "1m",
+    "6m": "6m",
+    "1y": "1a"
+  },
+  "tags": {
+    "main": "Principale"
+  },
+  "error": "Erreur",
+  "share": {
+    "text": "Partagez votre session utilisateur sur un autre appareil",
+    "share-url": "Partager l'URL (cliquez pour copier) et ouvrir dans un nouveau navigateur",
+    "accept": {
+      "title": "Accepter le partage",
+      "to-main": "Au principale"
+    },
+    "error": {
+      "invalid": "lien de partage non valide",
+      "already-accepted": "lien de partage déjà accepté"
+    }
+  },
+  "user": {
+    "title": "Profil de l'utilisateur"
+  },
+  "chat": {
+    "chat": "chat",
+    "send-a-message": "Envoyer un message",
+    "can-send-pro-only": "Seuls les clients peuvent envoyer des messages. S'il vous plaît <a class=\"buy-pledge-link\" href=\"[0]\">buy a pledge</a> and ",
+    "your-name": "Votre nom",
+    "name-changed": "Maintenant, ton nom est ",
+    "show-dates": "Afficher la date du message"
+  },
+  "patreon": {
+    "pro-tier": "Niveau membre Pro sur Patreon",
+    "per-month": "Par mois",
+    "ads": "<b>sans publicité</b>",
+    "api": "<b>Accés Api</b>",
+    "1": "<b>Mois, 6 Mois, tableaux des prix de l'année</b> sur la page des détails de l'objet",
+    "2": "<b>Notifications de prix</b> pour les articles préférés (en plan)",
+    "3": "<b>Couleur du nom dans le chat</b> (en plan)",
+    "note": "Toutes ces fonctionnalités ne sont pas implémentées actuellement et le seront dans un avenir proche.",
+    "select": "Sélectionner"
+  },
+  "patrons": {
+    "thanks": "Merci aux patrons!",
+    "login": "se connecter"
+  },
+  "buy-pro": {
+    "title": "Données historiques disponibles pour les patreons uniquement.",
+    "goto": "S'il vous plaît allez à",
+    "user-page": "Page utilisateur",
+    "buy-pledge": " Et acheter un gage.",
+    "click-login": "Après ce clic, connectez-vous avec Patreon.",
+    "thanks": "Merci pour votre soutien!",
+    "examples": "Vous pouvez voir des exemples de graphiques sur les pages publiques:",
+    "t-7": "T-7 Lunettes thermiques avec montures de vision nocturne",
+    "labs-card": "Carte d'accés au laboratoir Terragroupe",
+    "btc": "Bitcoin physique"
+  },
+  "adblock": {
+    "detected": "Adblock detecté.",
+    "turn-off": "S'il vous plait désactivé votre Adblock",
+    "or": "ou",
+    "buy": "acheter un gage",
+    "remove-ads": " pour enlever les poublicités",
+    "support": "Et supporter l'auteur.",
+    "info": "Plus d'informations ici"
+  },
+  "discord": {
+    "srv": "Serveur Discord",
+    "title": "Bot Discord pour votre serveur",
+    "add": "Ajouter le lien d'un Bot",
+    "link-desc": "Liez votre compte utilisateur Discord avec un votre compte sur le site pour recevoir des notifications",
+    "send-cmd": "Veuillez envoyer cette commande au Bot Discord"
+  }
+}
